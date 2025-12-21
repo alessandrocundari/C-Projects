@@ -94,8 +94,10 @@ make clean
 
 ```
 repository-root/
-├── domino/               # Current project
-│   └── domino.c         # Domino game implementation
+├── domino/
+│   └── domino.c       # Domino game implementation
+├── Minefield/         # New project
+│   └── campominato.c  # Minefield game implementation
 └── README.md
 ```
 
